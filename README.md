@@ -1,3 +1,4 @@
+Make sure You have installed Python
 sudo apt install python3-pip
 cd Downloads/weather_detector
 python3 -m venv venv
